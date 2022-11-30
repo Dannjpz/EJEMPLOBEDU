@@ -1,3 +1,3 @@
 # EJEMPLOBEDU
+<<<<<<< HEAD
 Ejemplo CAMBIO EN README NUMERO 3
-
